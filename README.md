@@ -10,3 +10,4 @@
 [Урок 13](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/lesson_13/ "Моя готовая домашка") - Форма в стиле Pixel Perfect  
 [Урок 14](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/lesson_14/ "Моя готовая домашка") - Практика.Вёрстка шапки сайта  
 [Урок 15](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/lesson_15/ "Моя готовая домашка") - Модуль 5. Урок № 14  
+[Урок 16](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/practice_part_2/ "Моя готовая домашка") - Модуль 5. Практика часть 2 
