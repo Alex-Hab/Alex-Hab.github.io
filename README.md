@@ -8,7 +8,7 @@
 [Урок 10](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/lesson_10/ "Моя готовая домашка") - Работа с репозиторием GitHab  
 [Урок 12](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/lesson_12/ "Моя готовая домашка") - Работа с репозиторием GitHab  
 [Урок 13](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/lesson_13/ "Моя готовая домашка") - Форма в стиле Pixel Perfect  
-[Урок 14](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/lesson_14/ "Моя готовая домашка") - Практика.Вёрстка шапки сайта  
-[Урок 15](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/lesson_15/ "Моя готовая домашка") - Модуль 5. Урок № 14  
-[Урок 16](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/practice_part_2/ "Моя готовая домашка") - Модуль 5. Практика часть 2 
-[Урок 15_](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/lesson_15_/ "Моя готовая домашка") - Модуль 5. Урок № 15 
+[Практика](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/lesson_14/ "Моя готовая домашка") - Практика.Вёрстка шапки сайта  
+[Урок 14](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/lesson_15/ "Моя готовая домашка") - Модуль 5. Урок № 14  
+[Практика 2](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/practice_part_2/ "Моя готовая домашка") - Модуль 5. Практика часть 2 
+[Урок 15](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/lesson_15_/ "Моя готовая домашка") - Модуль 5. Урок № 15 
