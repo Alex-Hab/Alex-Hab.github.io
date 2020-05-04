@@ -11,5 +11,5 @@
 [Практика](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/lesson_14/ "Моя готовая домашка") - Практика.Вёрстка шапки сайта  
 [Урок 14](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/lesson_15/ "Моя готовая домашка") - Модуль 5. Урок № 14  
 [Практика 2](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/practice_part_2/ "Моя готовая домашка") - Модуль 5. Практика часть 2  
-[Урок 15](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/lesson_15_/ "Моя готовая домашка") - Модуль 5. Урок № 15
+[Урок 15](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/lesson_15_/ "Моя готовая домашка") - Модуль 5. Урок № 15 
 [Практика 3](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/practice_part_3/ "Моя готовая домашка") - Модуль 5. Урок № 16 
