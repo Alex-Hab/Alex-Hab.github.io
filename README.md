@@ -15,4 +15,6 @@
 [Практика 3](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/practice_part_3/ "Моя готовая домашка") - Модуль 5. Урок № 16  
 [Урок 16](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/lesson_16/ "Моя готовая домашка") - Модуль 5. Урок № 16  
 [Практика 4](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/practice_part_4/ "Моя готовая домашка") - Модуль 5. Урок № 16  
+[Урок 17](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/lesson_17/ "Моя готовая домашка") - Модуль 5. Урок № 17  
+
 
