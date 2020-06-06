@@ -1,0 +1,90 @@
+@font-face {
+  font-family: "ProximaNova_bold";
+  src: url("../fonts/ProximaNova-Bold.eot");
+  src: url("../fonts/ProximaNova-Bold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/ProximaNova-Bold.woff2") format("woff2"),
+    url("../fonts/ProximaNova-Bold.woff") format("woff"),
+    url("../fonts/ProximaNova-Bold.ttf") format("truetype"),
+    url("../fonts/ProximaNova-Bold.svg#ProximaNova-Bold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+}
+
+body {
+  margin: 10rem;
+  text-align: center;
+}
+.container {
+  display: inline-block;
+  width: 800px;
+  height: 500px;
+  background-image: url(../img/background.png);
+}
+.tab-content {
+  margin: 0 80px 38px;
+  border: 26px solid #03a1d3;
+  border-radius: 10px;
+  background-color: #000;
+}
+.active {
+  width: 102px;
+}
+.nav {
+  /*-webkit-transform: translateX(12.5%);*/
+  font-size: 24px;
+}
+.nav-tabs {
+  border-bottom: none;
+  -webkit-transform: translateX(14%);
+}
+
+.main-form {
+  width: 578px;
+  height: 361px;
+  padding: 7.5rem 5rem;
+}
+.main-form-input {
+  background-color: #1d1c1c;
+  width: 480px;
+  height: 60px;
+  border: none;
+  border-radius: 5px;
+  padding-top: 72px;
+  margin-bottom: 33px;
+}
+.main-form label {
+  padding: 0 24px;
+  position: absolute;
+  -webkit-transform: translateY(55%);
+  color: white;
+  font-size: 24px;
+}
+button {
+  width: 129px;
+  height: 45px;
+  padding: 0 2.5rem 0rem 0;
+  font-size: 2.4rem;
+  background-color: #bd1c03;
+  color: #ffffff;
+  border: none;
+  -webkit-transform: translateX(170%);
+  display: inline-block;
+}
+small {
+  color: red;
+  font-size: 15px;
+}
+
+@keyframes move {
+  from {
+    margin-left: 0;
+  }
+  10% {
+    margin-left: 20px;
+  }
+  /*Конечный кадр анимации*/
+  to {
+    margin-left: 400px;
+  }
+}
+

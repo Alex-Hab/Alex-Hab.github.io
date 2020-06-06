@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="discription" content="" />
+    <meta name="author" content="" />
+    <link rel="icon" href="favicon.ico" />
+
+    <title>Starter</title>
+    <!-- Подключаем стили Bootstrap -->
+    <link
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"
+    />
+    <!-- Подключаем наши стили-->
+    <link href="css/style.css" rel="stylesheet" />
+    <script src=""></script>
+  </head>
+
+  <body>
+    <div class="container">
+      <div>
+        <!-- Nav tabs -->
+        <ul class="nav nav-tabs">
+          <li class="active">
+            <a href="#Enter" data-toggle="tab">Вход</a>
+          </li>
+          <li>
+            <a href="#registr" data-toggle="tab">Регистрация</a>
+          </li>
+        </ul>
+        <!-- Tab panes -->
+        <div class="tab-content">
+          <div class="tab-pane active" id="Enter">
+            <div class="main-form">
+              <form action="#">
+                <label for="#">Ваше имя</label>
+                <input type="text" class="main-form-input" />
+                <label for="#">Пароль</label>
+                <input type="text" class="main-form-input" />
+                <small>Забыли пароль?</small>
+                <div class="box wow slideInLeft" data-wow-duration="2s" data-wow-delay="5s"">
+                  <button class="main-form-btn button" type="submit">
+                    Войти
+                  </button>
+                </div>
+              </form>
+            </div>
+          </div>
+          <div class="tab-pane" id="registr">Регистрация</div>
+          <div class="tab-pane"></div>
+        </div>
+      </div>
+    </div>
+    <!-- Обязательно должна быть подключена библиотека jQuery-->
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="https://getboostrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+    <script>
+      src="https://raw.githubusercontent.com/matthieua/WOW/master/dist/wow.min.js">
+    </script>
+    <script>
+      var wow = new WOW();
+      wow.init();
+    </script>
+  </body>
+</html>
