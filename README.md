@@ -20,6 +20,8 @@
 [Практика 6](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/practice_part_6/ "Моя готовая домашка") - Модуль 5. Практика. Часть №6  
 [Урок 19](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/lesson_19/ "Моя готовая домашка") - Модуль 6. Урок № 19  
 [Практика 7](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/practice_part_7/ "Моя готовая домашка") - Модуль 6. Практика. Часть №7  
+[Урок 20](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/lesson_20/ "Моя готовая домашка") - Модуль 6. Урок № 20  
+
 
 
 
