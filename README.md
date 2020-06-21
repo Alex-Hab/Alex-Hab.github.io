@@ -23,6 +23,8 @@
 [Урок 20](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/lesson_20/ "Моя готовая домашка") - Модуль 6. Урок № 20  
 [Практика 8](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/practice_part_8/ "Моя готовая домашка") - Модуль 6. Практика. Часть №8  
 [Практика 9](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/practice_part_9/ "Моя готовая домашка") - Модуль 6. Практика. Часть №9  
+[Практика 10](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/practice_part_10/ "Моя готовая домашка") - Модуль 6. Практика. Часть №10 - Блок с опасениями  
+
 
 
 
