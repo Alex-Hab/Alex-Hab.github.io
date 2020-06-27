@@ -24,7 +24,7 @@
 [Практика 8](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/practice_part_8/ "Моя готовая домашка") - Модуль 6. Практика. Часть №8  
 [Практика 9](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/practice_part_9/ "Моя готовая домашка") - Модуль 6. Практика. Часть №9  
 [Практика 10](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/practice_part_10/ "Моя готовая домашка") - Модуль 6. Практика. Часть №10 - Блок с опасениями  
-
+[Урок 22](https://github.com/Alex-Hab/Alex-Hab.github.io/tree/master/lesson_22/ "Моя готовая домашка") - Модуль 6. Урок № 22- Геокарты  
 
 
 
