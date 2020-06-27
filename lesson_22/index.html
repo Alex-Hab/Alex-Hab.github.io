@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="icon" href="favicon.ico" />
+    <title>Карты</title>
+    <link href="css/style.css" rel="stylesheet" />
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <script
+      src="https://api-maps.yandex.ru/2.1/?lang=ru_RU"
+      type="text/javascript"
+    ></script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="map">
+        <script
+          type="text/javascript"
+          charset="utf-8"
+          async
+          src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Af5094b64909302e8dbccfd9294b6a49db4724553d0faff742bb7e90e2b21152f&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;scroll=false "
+        ></script>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-1">
+          <img src="img/logo.png" alt="Гипсолит.Штукатурка стен" />
+        </div>
+        <div class="col-lg-3 col-lg-offset-1">
+          <h6>Технологии<br />Пожарной<br />Безопасности</h6>
+        </div>
+        <div class="col-lg-4 col-lg-offset-2">
+          <div class="sertificate">
+            <h6>
+              <br> Сертификация пожарной безопасности<br />Работаем по России и странам
+              СНГ
+            </>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="adress">
+            <h5>+7 (499) 409-87-25</h5>
+            <h6>г. Москва Варшавское шоссе,<br />дом 15, корпус 1, офис №8</h6>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="block">
+        <h3>Контакты</h3>
+        <p>г.Москва<br />Варшавское шоссе, дом 16,<br />корпус 1, офис №8</p>
+
+        <p>200 отм. Театральная</p>
+
+        <p>+7 499 409 87 25</p>
+
+        <p>info@vashsite.ru</p>
+      </div>
+    </div>
+
+    <script src="http://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script>
+      ymaps.ready(function () {
+        var myMap = new ymaps.Map(
+            "map",
+            {
+              center: [55.751574, 37.573856],
+              zoom: 9,
+            },
+            {
+              searchControlProvider: "yandex#search",
+            }
+          ),
+          // Создаём макет содержимого.
+          MyIconContentLayout = ymaps.templateLayoutFactory.createClass(
+            '<div style="color: #FFFFFF; font-weight: bold;">$[properties.iconContent]</div>'
+          ),
+          myPlacemark = new ymaps.Placemark(
+            myMap.getCenter(),
+            {
+              hintContent: "Собственный значок метки",
+              balloonContent: "Это красивая метка",
+            },
+            {
+              // Опции.
+              // Необходимо указать данный тип макета.
+              iconLayout: "default#image",
+              // Своё изображение иконки метки.
+              iconImageHref: "img/profile-2",
+              // Размеры метки.
+              iconImageSize: [64, 64],
+              // Смещение левого верхнего угла иконки относительно
+              // её "ножки" (точки привязки).
+              iconImageOffset: [-32, -64],
+            }
+          ),
+          myPlacemarkWithContent = new ymaps.Placemark(
+            [55.661574, 37.573856],
+            {
+              hintContent: "Собственный значок метки с контентом",
+              balloonContent: "А эта — новогодняя",
+              iconContent: "12",
+            },
+            {
+              // Опции.
+              // Необходимо указать данный тип макета.
+              iconLayout: "default#imageWithContent",
+              // Своё изображение иконки метки.
+              iconImageHref: "images/ball.png",
+              // Размеры метки.
+              iconImageSize: [48, 48],
+              // Смещение левого верхнего угла иконки относительно
+              // её "ножки" (точки привязки).
+              iconImageOffset: [-24, -24],
+              // Смещение слоя с содержимым относительно слоя с картинкой.
+              iconContentOffset: [15, 15],
+              // Макет содержимого.
+              iconContentLayout: MyIconContentLayout,
+            }
+          );
+
+        myMap.geoObjects.add(myPlacemark).add(myPlacemarkWithContent);
+      });
+    </script>
+  </body>
+</html>
